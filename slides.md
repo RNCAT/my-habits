@@ -13,7 +13,7 @@ Jaruwat Thongchana
 
 ---
 layout: new-section
-sectionImage: './images/always.jpeg'
+sectionImage: 'https://raw.githubusercontent.com/RNCAT/my-habits/main/images/always.jpeg'
 ---
 
 # Always
@@ -21,7 +21,7 @@ sectionImage: './images/always.jpeg'
 
 ---
 layout: image-center
-image: './images/usually.jpeg'
+image: 'https://raw.githubusercontent.com/RNCAT/my-habits/main/images/usually.jpeg'
 imageWidth: '420'
 imageHeight: '300'
 ---
@@ -32,7 +32,7 @@ imageHeight: '300'
 
 ---
 layout: new-section
-sectionImage: './images/often.jpeg'
+sectionImage: 'https://raw.githubusercontent.com/RNCAT/my-habits/main/images/often.jpeg'
 ---
 
 # Often
@@ -41,7 +41,7 @@ sectionImage: './images/often.jpeg'
 
 ---
 layout: image-center
-image: './images/sometimes.jpeg'
+image: 'https://raw.githubusercontent.com/RNCAT/my-habits/main/images/sometimes.jpeg'
 imageWidth: '420'
 imageHeight: '300'
 ---
@@ -52,7 +52,7 @@ imageHeight: '300'
 
 ---
 layout: new-section
-sectionImage: './images/never.jpeg'
+sectionImage: 'https://raw.githubusercontent.com/RNCAT/my-habits/main/images/never.jpeg'
 ---
 
 # Never
